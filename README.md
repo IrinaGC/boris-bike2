@@ -26,3 +26,9 @@ Screenshot 2021-06-01 at 16.50.18 for the diagram.
    Error type: NameError: Raised when a given name is invalid or undefined.
    In our case, DockingStation is undefined.
    Solving error suggestion: initialize class of DockingStation
+
+   5. Done
+
+   DAY 2 OF TDD CHALLENGE
+
+5.
